@@ -1,1 +1,5 @@
-jaflhfwuihonhjklhfohlkklsahfk
+1.  Add option for smart highlighting extension to anothe view.
+2.  Fix Installer for 64-bit fails with argument "/D".
+3.  Fix uninstaller silent mode issue.
+4.  Fix a tab settings regression.
+5.  Fix file not saving bug (Ensure backup directory exists).
